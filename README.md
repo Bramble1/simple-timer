@@ -1,5 +1,7 @@
 # simple-timer
-Minimal CLI Timer Program, Which plays an AudioFile When time is up. User enters the total time they wish the timer to countdown from. Used for my own productivity. Can close the terminal Once executed, as it's running in the background, just make sure the volume is high enough to hear the alarm sound. And it is much more lightweight and battery friendly compared to using a timer in a browser or with a graphical user interface.
+Minimal CLI Timer Program, Which plays an AudioFile When time is up. User enters the total time they wish the timer to countdown from. Used for my own productivity. Can close the terminal Once executed, as it's running in the background, just make sure the volume is high enough to hear the alarm sound. 
+
+It is much more lightweight and battery friendly compared to using a timer in a browser or with a graphical user interface.
 
 # usage
 run without arguments to see the usage instructions.
