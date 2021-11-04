@@ -17,3 +17,7 @@ the config. As an example my config has been provided.
 
 But obviously you may want to change the software choice and point to your own soundfile.
 
+
+# Improvements
+
+The ability to see the elapsed time. To see how much time is left of the timer.
