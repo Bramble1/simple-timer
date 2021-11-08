@@ -17,7 +17,7 @@ file to point towards the soundfile you wish to play as well as the software use
 in the '/' directory, be sure to provide full paths for the definitions. And make sure not to change the defiition names, as the program relies on reading
 the config. As an example my config has been provided.
 
-But obviously you may want to change the software choice and point to your own soundfile.
+But obviously you may want to change the software choice and point to your own soundfile. I have provided the soundfile I use. I created it myself using an analog moog sub 25 hardware synthesizer. Deliberately have a short soundfile so it ends quickly without having to manually stop it yourself.
 
 
 # Improvements
