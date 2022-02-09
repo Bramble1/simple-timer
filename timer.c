@@ -78,6 +78,8 @@ void start_clock(int minutes)
 	system(command);
 
 	memset(command,'\0',100);
+	system("pkill mpv 2>/dev/null");
+	system("amixer set Master 61%");
 	sprintf(command,"%s %s",MPLAYER,SOUND);
 	system(command);
 }
